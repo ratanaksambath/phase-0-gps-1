@@ -11,4 +11,4 @@ phase-0-gps-1
 ### shows all git branches, local and remote
 
 #git clone
-###clones the repo to your local machine
+###clones the repo UNICORN to your local machine

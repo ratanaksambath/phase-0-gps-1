@@ -12,3 +12,6 @@ phase-0-gps-1
 
 #git clone
 ###clones the repo UNICORN to your local machine
+
+#git config
+### git config --list
